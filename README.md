@@ -33,4 +33,8 @@ The ECG of 20 diabetes patients and 20 normal people were collected. The people 
 
 [10] Tawfik Beghriche, Mohamed Djerioui, Youcef Brik, Bilal Attallah and Samir Brahim Belhaouari (2021) implemented a deep neural network algorithm. Initially they started to compare multiple algorithms including LR, SVM etc… They have used enhanced version of PIMA dataset which contains 2000 data containing 9 features
 
-# OUTPUT:
+# OUTPUT: 
+(a) Home page:
+![Output1](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/430a4f7a-f994-49cd-bc05-299200182f49) 
+(b) Predict Page
+
