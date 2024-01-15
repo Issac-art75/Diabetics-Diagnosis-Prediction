@@ -35,15 +35,23 @@ The ECG of 20 diabetes patients and 20 normal people were collected. The people 
 
 # OUTPUT: 
 (a) Home page:  
+
 ![Output1](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/430a4f7a-f994-49cd-bc05-299200182f49) 
 (b) Predict Page:  
+
 ![Output2](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/6c0c9abb-ba8f-4f47-b861-a3678beb4445) 
 (c) Positive:  
-![Output3](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/8362db64-3e06-4abd-903e-4ce3b465f534) 
-![Output4](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/e198275b-08a4-46e5-a7df-4afc3f42a96b) 
+
+![Output3](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/8362db64-3e06-4abd-903e-4ce3b465f534)  
+
+![Output4](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/e198275b-08a4-46e5-a7df-4afc3f42a96b)  
+
 (d) Negative:  
-![Output5](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/d8ae3905-a8ed-4994-ad05-d0f5f11c00bf) 
-![Output6](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/c995616c-46dd-49ff-b938-f7b7fdc7b409)
+
+![Output5](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/d8ae3905-a8ed-4994-ad05-d0f5f11c00bf)  
+
+![Output6](https://github.com/Issac-art75/Diabetics-Diagnosis-Prediction/assets/74670759/c995616c-46dd-49ff-b938-f7b7fdc7b409)  
+
 
 # RESULT:
        Thus a Machine Learning algorithm for Diabetes Diagnosis Prediction system has been implemented and executed successfully.
